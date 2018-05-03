@@ -1,1 +1,1 @@
-# newGitTest
+# IntroductionToGitHub - Testing features
